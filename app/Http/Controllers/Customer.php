@@ -424,4 +424,4 @@ public function decrementQuantity($id)
             return redirect()->back()->with('error', 'Pesanan tidak ditemukan.');
         }
             
-}
+}       
